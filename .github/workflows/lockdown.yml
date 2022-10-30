@@ -18,4 +18,4 @@ jobs:
     steps:
       - uses: dessant/repo-lockdown@v2
         with:
-          pr-comment: I do not accept pull requests on this repo.
+          pr-comment: 'I do not accept pull requests on this repo.'
